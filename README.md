@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pooja Pai. I am currently working as a Lead Specialist habing 6 years of work experience in the field of Data Analytics. I have worked in Banking , IT and Insurance domains. My job mainly focuses
+- 👋 Hi, I’m Pooja Pai. I am currently working as a Lead Specialist having 6 years of work experience in the field of Data Analytics. I have worked in Banking , IT and Insurance domains. My job mainly focuses
   on MIS,Data Analysis,Data Reports,Data Visualisation.
 - 😄 Pronouns: She/Her
 - 💞️ I’m looking to collaborate on projects based on NLP , Data Extraction ,Data Visualisation and Story telling.
